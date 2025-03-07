@@ -1,1 +1,0 @@
-{"mappings":"AAAA,MAAMA,EAAO,IAAIC,KACjBC,QAAQC,IAAIH,EAAKI,WACjBF,QAAQC,IAAIH","sources":["src/js/02-timer.js"],"sourcesContent":["const date = new Date();\nconsole.log(date.getTime());\nconsole.log(date);"],"names":["$40d383fb392a7037$var$date","Date","console","log","getTime"],"version":3,"file":"02-timer.fa83f0b7.js.map"}
